@@ -10,6 +10,7 @@ const nextConfig = {
       "seed-mix-image.spotifycdn.com",
       "tbvswgcbrilqlaxdsxii.supabase.co",
       "daeuqixkgxhbvesonfeo.supabase.co",
+      "wxldribohmwkmxzmxwtw.supabase.co",
     ],
   },
 };
