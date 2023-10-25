@@ -71,7 +71,11 @@ const Modal: React.FC<ModalProps> = ({
             >
               {description}
             </Dialog.Description>
-            <div>{children}</div>
+            <div>
+             {children} 
+             <h1>demo email: zakm6911@gmail.com</h1>
+             <h1>demo password: 123456</h1>
+            </div>
             <Dialog.Close asChild>
               <button
                 className="
